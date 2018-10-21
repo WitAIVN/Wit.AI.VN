@@ -4,7 +4,7 @@ Wit.AI.VN
 # Facebook group: [https://www.facebook.com/groups/wit.ai.vn](https://www.facebook.com/groups/wit.ai.vn)
 
 <p align="center">
-<img src="https://github.com/WitAIVN/Wit.AI.VN/blob/master/images/NPL_bot_1.jpg" />
+    <img src="https://github.com/WitAIVN/Wit.AI.VN/blob/master/images/NPL_bot_1.jpg" />
 </p>
 
 # Public wit.ai Apps
@@ -18,6 +18,10 @@ Wit.AI.VN
 # Tutorials
 
 ## Chat bot
+
+<p align="center">
+    <img src="https://github.com/WitAIVN/Wit.AI.VN/blob/master/images/chatbot.png" />
+</p>
 
 ### Facebook Messenger
 
