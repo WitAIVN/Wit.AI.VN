@@ -14,4 +14,4 @@ Wit.AI.VN
 
 ### Mobile Apps
 
-- [Hướng dẫn tạo app Chat Bot đơn giản với Google DialogFlow](https://github.com/WitAIVN/Wit.AI.VN/blob/master/ReactNative-ChatBot-DialogFlow.md) - (CoderSchool)
+- [Hướng dẫn tạo app Chat Bot (ReactNative) đơn giản với Google DialogFlow](https://github.com/WitAIVN/Wit.AI.VN/blob/master/ReactNative-ChatBot-DialogFlow.md) - (CoderSchool)
