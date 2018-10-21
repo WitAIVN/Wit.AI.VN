@@ -11,6 +11,7 @@
 1. Các bài viết, thảo luận phải có nội dung liên quan đến `AI`.
 2. Thảo luận về các công nghệ, thư viện, mã nguồn, tutorials, tin tức... có liên quan đến `AI`.
 3. Thảo luận về các ngôn ngữ lập trình khai thác `AI`: `NodeJS, Go, PHP, C#...`
+4. Các bài viết nên có `hashtag` phù hợp để dễ dàng việc tìm kiếm, phân loại về sau. Ví dụ: `#wit, #witai, #rasa, #lex, #nodejs, #golang,...`
 
 ## B. Các nội dung không được phép gửi:
 
