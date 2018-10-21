@@ -3,6 +3,9 @@ Wit.AI.VN
 
 # Facebook group: [https://www.facebook.com/groups/wit.ai.vn](https://www.facebook.com/groups/wit.ai.vn)
 
+<p align="center">
+![Bot](images/NPL_bot_1.jpg)
+</p>
 
 # Public wit.ai Apps
 
