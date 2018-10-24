@@ -27,6 +27,8 @@ Wit.AI.VN
 
 - [[Video] Xây dựng Facebook Messenger với Wit.ai, NodeJS và ExpressJS](http://engineering.vtvcab.vn/video-xay-dung-facebook-messenger-voi-wit-ai-nodejs-va-expressjs/) + [Source Code](https://github.com/VTVCabEngineering/ChatBotWitTutorial)
 
+- [Build a Facebook Messenger bot with Go and Messenger API](http://www.blog.labouardy.com/create-facebook-messanger-bot-with-go-and-messenger-api/) + [Source](https://github.com/mlabouardy/memes-fb-bot/blob/master/app.go)
+
 - [How to make a basic ChatBot (Wit.ai) Part-1](https://www.codementor.io/srijansaxena/how-to-make-a-basic-chatbot-wit-ai-part-1-7g82j81wu)
 
 - [Getting started with Built-in NLP for Messenger Bots](https://aboullaite.me/getting-started-with-built-in-nlp-for-messenger-bots/)
