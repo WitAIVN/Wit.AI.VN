@@ -13,7 +13,13 @@ Wit.AI.VN
 
 # Training
 
+## Programmatically
+
 - [Tutorial for migrating Bot Engine apps to /message ](https://github.com/wit-ai/wit-api-only-tutorial)
+
+## Manual
+
+- [Best practice wit ai training](https://stackoverflow.com/questions/42546192/best-practice-wit-ai-training)
 
 # Articles
 
