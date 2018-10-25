@@ -11,6 +11,10 @@ Wit.AI.VN
 
 - [Francis88 / Internet of Things](https://wit.ai/Francis88/Internet%20of%20Things)
 
+# Training
+
+- [Tutorial for migrating Bot Engine apps to /message ](https://github.com/wit-ai/wit-api-only-tutorial)
+
 # Articles
 
 - [Wit.ai and how to use it](https://medium.com/@Giuul/wit-ai-and-how-to-use-it-72372b07d98b) + ([Source code OBA chatbot](https://github.com/rijkvanzanten/robat)) + [Programmableweb(n.d.).Wit.AI API — Sample Source Code.](https://www.programmableweb.com/api/witai/sample-source-code)
