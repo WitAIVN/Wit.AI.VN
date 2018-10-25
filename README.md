@@ -15,7 +15,7 @@ Wit.AI.VN
 
 ## Programmatically
 
-- [Tutorial for migrating Bot Engine apps to /message ](https://github.com/wit-ai/wit-api-only-tutorial)
+- [wit-ai/wit-api-only-tutorial](https://github.com/wit-ai/wit-api-only-tutorial)
 
 ## Manual
 
